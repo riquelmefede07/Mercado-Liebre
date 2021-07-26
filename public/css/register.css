@@ -1,0 +1,29 @@
+.placeholder {
+    width: 61%;
+    margin: 12px;
+    padding: 6px;
+    border-radius: 10px;
+    box-shadow: inset #ffc0f8 -20px 0px 17px 0px;
+ 
+   
+      
+}
+.register {
+
+    box-sizing: border-box;
+    height: 100vh;
+}
+.box-register{
+    text-align: center;
+    background-color: grey;
+ 
+}
+.radio-box {
+    text-align: center;
+    width: 62%;
+}
+.box-radio-1{
+text-align: center;
+width: 100%;
+border-color: lawngreen;
+}
